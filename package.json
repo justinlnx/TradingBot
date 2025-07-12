@@ -1,0 +1,18 @@
+{
+  "name": "tradingbot",
+  "version": "1.0.0",
+  "main": "trade_agent.js",
+  "scripts": {
+    "start": "node trade_agent.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.2",
+    "dotenv": "^8.2.0",
+    "openai": "^5.9.0",
+    "readline": "^1.3.0"
+  }
+}
